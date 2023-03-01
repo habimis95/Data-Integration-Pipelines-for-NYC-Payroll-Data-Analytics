@@ -1,0 +1,17 @@
+{
+	"name": "udacity-adf",
+	"properties": {
+		"globalParameters": {
+			"dataflow_param_fiscalyear": {
+				"type": "string",
+				"value": "2020"
+			}
+		}
+	},
+	"location": "southeastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0b0e3cc1-2853-46c3-9913-b3b28185c9c0",
+		"tenantId": "9b7cbd77-6d6b-4879-8aba-63d7dfb18472"
+	}
+}
